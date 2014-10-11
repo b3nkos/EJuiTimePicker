@@ -9,7 +9,7 @@
 		secondText: 'Giây',
 		timezoneText: 'Múi giờ',
 		currentText: 'Hiện thời',
-		closeText: 'Đóng'
+		closeText: 'Đóng',
 		timeFormat: 'h:m',
 		ampm: false
 	};
